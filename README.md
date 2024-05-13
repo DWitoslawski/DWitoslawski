@@ -1,4 +1,5 @@
 ### Hi there 👋
+## I am a UNLV Computer Science and Biology Student interested in data science/engineering and software engineering. Currently engaging in bioinformatics research developing software tools and pipelines for data analysis.
 
 <!--
 **DWitoslawski/DWitoslawski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
